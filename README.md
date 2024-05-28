@@ -1,6 +1,6 @@
 # Pandas: conhecendo a biblioteca
 
-**Neste curso, trabalhei como cientistas de dados de uma empresa imobiliária. Onde desenvolvemos um projeto em que aprendi a:**
+**Neste curso trabalhei como cientistas de dados de uma empresa imobiliária onde desenvolvemos um projeto em que aprendi a:**
 
 - explorar características gerais de uma base de dados
 - realizar análises exploratórias com diferentes métodos
