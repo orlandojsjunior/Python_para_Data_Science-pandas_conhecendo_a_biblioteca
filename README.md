@@ -1,6 +1,13 @@
-# Pandas: conhecendo a biblioteca
+# [Formação Python para Data Science](https://cursos.alura.com.br/formacao-data-science-python)
+Python com foco em Data Science!
+
+## [Curso de Pandas: conhecendo a biblioteca](https://cursos.alura.com.br/course/pandas-conhecendo-biblioteca)
 
 **Neste curso trabalhei como cientistas de dados de uma empresa imobiliária onde desenvolvemos um projeto em que aprendi a:**
+
+# [Trelo do Projeto](https://trello.com/b/zKS5T6WQ/pandas-conhecendo-a-biblioteca)
+
+### Principais tópicos do curso:
 
 - explorar características gerais de uma base de dados
 - realizar análises exploratórias com diferentes métodos
@@ -11,7 +18,7 @@
 
 
 
-
+#
 **No modulo 1 - Conhecendo a base de dados, eu aprendi a:**
 
 - Importar a biblioteca Pandas;
@@ -22,6 +29,7 @@
 - Conferir os tipos de dados de cada coluna de um DataFrame;
 - Selecionar uma ou múltiplas colunas.
 
+#
 **No modulo 2 - Análise exploratoria, eu aprendi a:**
 
 - Identificar o que fazer durante um processo de análise exploratória;
@@ -35,6 +43,7 @@
 - Utilizar o value_counts para contar valores únicos e calcular percentuais;
 - Mudar nomes de colunas.
 
+#
 **No modulo 3 - Tratando e filtrando dados, eu aprendi a:**
 
 - Verificar se uma base de dados possui dados nulos;
@@ -44,6 +53,7 @@
 - Salvar dados no formato csv;
 - Utilizar o método replace para substituir valores em uma base de dados.
 
+#
 **No modulo 4 - Manipulando dados, eu aprendi a:**
 
 - Gerar colunas numéricas;
@@ -53,8 +63,8 @@
 - Utilizar o método apply;
 - Criar funções lambda.
 	
-
-**Livro que recomendo:** 
+#
+**Livro recomendado:** 
 
 •	Python para análise de dados - Tratamento de dados com Pandas, NumPy e IPython
 
