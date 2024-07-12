@@ -66,7 +66,7 @@ Python com foco em Data Science!
 #
 **Livro recomendado:** 
 
-•	Python para análise de dados - Tratamento de dados com Pandas, NumPy e IPython
+• **Python para análise de dados - Tratamento de dados com Pandas, NumPy e IPython**
 
 "Python Para Análise de Dados" é um livro que ensina como manipular, processar, limpar e realizar análise de dados utilizando a linguagem de programação Python. Este livro é destinado a todos os analistas de dados e programadores interessados em usar Python para análise de dados. As técnicas e conceitos ensinados neste livro podem ser aplicadas em uma vasta gama de setores e profissões.
 
