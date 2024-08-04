@@ -6,7 +6,7 @@
 
 ## [Curso de Pandas: conhecendo a biblioteca](https://cursos.alura.com.br/course/pandas-conhecendo-biblioteca)
 
-**Neste curso trabalhei como cientistas de dados de uma empresa imobiliária onde desenvolvemos um projeto em que aprendi a:**
+**Neste curso trabalhei como cientistas de dados de uma empresa imobiliária onde desenvolvemos um projeto em que conheci mais a fundo a biblioteca.**
 
 ## [Trelo do Projeto](https://trello.com/b/zKS5T6WQ/pandas-conhecendo-a-biblioteca)
 
@@ -18,9 +18,7 @@
 - remover registros inconsistentes 
 - aplicar filtros
 - criar diferentes colunas
-
-
-
+- 
 #
 **No modulo 1 - Conhecendo a base de dados, eu aprendi a:**
 
