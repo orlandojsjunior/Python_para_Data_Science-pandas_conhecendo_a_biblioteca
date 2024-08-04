@@ -12,12 +12,13 @@
 
 ### Principais tópicos do curso:
 
-- explorar características gerais de uma base de dados
-- realizar análises exploratórias com diferentes métodos
-- lidar com valores nulos
-- remover registros inconsistentes 
-- aplicar filtros
-- criar diferentes colunas
+- Utilizando os principais recursos da biblioteca Pandas pra desenvolver um projeto
+- Realizando análises exploratórias
+- Construindo diferentes gráficos
+- Selecionando dados específicos
+- Apredendo a lidar com dados nulos
+- Removendo linhas e colunas
+- Criando diversos tipos de colunas
   
 #
 **No modulo 1 - Conhecendo a base de dados, eu aprendi a:**
