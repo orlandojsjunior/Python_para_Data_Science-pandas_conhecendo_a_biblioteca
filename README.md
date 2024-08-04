@@ -1,5 +1,8 @@
 # [Formação Python para Data Science](https://cursos.alura.com.br/formacao-data-science-python)
-Python com foco em Data Science!
+
+<div style="text-align: justify;">
+    A formação de Python para Data Science da Alura é um guia de estudos com o passo a passo necessário para quem deseja aprender sobre uma das áreas com mais demanda de profissionais nos últimos anos. Cada etapa desse processo foi cuidadosamente pensada por nossa equipe, fazendo com que você, ao final da formação, tenha desenvolvido habilidades para enfrentar diversos desafios na área de Ciência de Dados.
+</div>
 
 ## [Curso de Pandas: conhecendo a biblioteca](https://cursos.alura.com.br/course/pandas-conhecendo-biblioteca)
 
