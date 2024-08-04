@@ -18,7 +18,7 @@
 - remover registros inconsistentes 
 - aplicar filtros
 - criar diferentes colunas
-- 
+  
 #
 **No modulo 1 - Conhecendo a base de dados, eu aprendi a:**
 
