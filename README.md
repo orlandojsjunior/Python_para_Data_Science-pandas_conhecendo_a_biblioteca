@@ -8,7 +8,7 @@
 
 **Neste curso trabalhei como cientistas de dados de uma empresa imobiliária onde desenvolvemos um projeto em que aprendi a:**
 
-# [Trelo do Projeto](https://trello.com/b/zKS5T6WQ/pandas-conhecendo-a-biblioteca)
+## [Trelo do Projeto](https://trello.com/b/zKS5T6WQ/pandas-conhecendo-a-biblioteca)
 
 ### Principais tópicos do curso:
 
